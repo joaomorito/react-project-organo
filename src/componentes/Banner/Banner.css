@@ -1,0 +1,8 @@
+.banner {
+    background-color: #6278F7; /*define a cor de fundo*/
+    text-align: center; /*centraliza o banner*/
+}
+
+.banner img {
+    max-width: 100%; /*tamanho da imagem na tela*/
+}
